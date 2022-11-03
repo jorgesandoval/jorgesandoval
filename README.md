@@ -10,7 +10,7 @@
 
 ### Welcome to my profile ! 👋
 
-I have started programming with languages such as C++/C and Java and I became interested in software security engineer area after working with Pen-testing and Defensive security. At the moment I am a Computer Science undergraduate and working as a developer. 
+I'm a Computer Scientist working on my Ph.D. (Decision Models). I teach and research Artificial Intelligence, worked for state government sectors, and love coding. I know several languages (C, C++, Pascal, Javascript, etc...) and technologies. However, I like to put only the ones I'm working on here. I hope you like it!
 <br>
 
 ## My main technologies are:
