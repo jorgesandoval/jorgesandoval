@@ -31,7 +31,7 @@ I'm a Computer Scientist working on my Ph.D. (Decision Models). I teach and rese
 
 ## My Social:
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/jorge-g-sandoval/)](www.linkedin.com/in/jorge-g-sandoval/)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/jorge-g-sandoval/)](https://www.linkedin.com/in/jorge-g-sandoval/)
 
 <br>
 
