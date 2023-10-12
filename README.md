@@ -58,7 +58,7 @@ I'm a seasoned Data Scientist with a rich background in database administration 
 - **Time Management & Emotional Intelligence**: Efficiently managed tasks, while maintaining interpersonal relationships and understanding team dynamics.
 
 
-## Technologies:
+## 💻 Technologies:
 
 ![PYTHON](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
