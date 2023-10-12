@@ -60,11 +60,14 @@ I'm a seasoned Data Scientist with a rich background in database administration 
 
 ## 💻 Technologies:
 
-![PYTHON](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![POSTGRES](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/python-%23FFD43B?&style=for-the-badge&logo=python&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-%23DC291E?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300718B?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 
 
 ## 🌐 Let's Connect!
