@@ -9,11 +9,37 @@
 </table>
 </center> 
 
-### Welcome to my profile ! 👋
+# Hello there! 👋
 
-I'm a Computer Scientist working on my Ph.D. (Decision Models). I teach and research Artificial Intelligence, worked for state government sectors, and love coding. I know several languages (C, C++, Pascal, Javascript, etc...) and technologies. However, I like to put only the ones I'm working on here. I hope you like it!
+I'm a seasoned Data Scientist with a rich background in database administration and technology consultancy. Passionate about applying my knowledge in real-world scenarios, I've diversified my expertise from being a Relational Database Administrator to delving deep into the realm of Data Science.
 
-<br>
+## 🎓 Education
+
+- **Ph.D. in Industrial and Systems Engineering** from *Pontifical Catholic University of Paraná (PUC/PR)*.
+- **Master's in Applied Computing (Artificial Intelligence)** from *University of Vale do Itajaí (UNIVALI)*.
+- **B.Sc. in Computer Science** *University of Vale do Itajaí (UNIVALI)*.
+
+## 💼 Professional Experience
+
+- **Data Scientist**: Transitioned to the field of Data Science in 2017, leveraging my expertise from database administration to data-driven decision making.
+- **Relational Database Administrator (2002-2017)**: Managed databases such as Oracle, DB2, SQL Server, PostgreSQL, and MySQL.
+- **Former Deputy Secretary** of Science, Technology, and Innovation in Santa Catarina.
+- **University Professor**: Imparted knowledge and mentored the next generation.
+- **Technology Consultant**: Offered strategic tech consultations for the Government of Santa Catarina.
+- **Researcher**: Explored and studied cutting-edge technologies to drive innovation.
+
+## 🌟 Core Competencies
+
+- **Communication & Teamwork**: Effectively conveyed complex information and collaborated with cross-functional teams.
+- **Leadership**: Spearheaded multiple projects, guiding teams to success.
+- **Problem-Solving & Critical Thinking**: Approached challenges with a logical and result-oriented mindset.
+- **Time Management & Emotional Intelligence**: Efficiently managed tasks, while maintaining interpersonal relationships and understanding team dynamics.
+
+## 🌐 Let's Connect!
+
+Feel free to reach out if you'd like to collaborate or just have a chat. Always excited to discuss new ideas, projects, or even the latest tech trends.
+
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/jorge-g-sandoval/)](https://www.linkedin.com/in/jorge-g-sandoval/)
 
 ## My main technologies are:
 
@@ -23,13 +49,6 @@ I'm a Computer Scientist working on my Ph.D. (Decision Models). I teach and rese
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
 
-## My Social:
-
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/jorge-g-sandoval/)](https://www.linkedin.com/in/jorge-g-sandoval/)
-
-<br>
-
-![](https://komarev.com/ghpvc/?username=jorgesandoval&color=blue&style=flat)
 
 ## Projects
 
