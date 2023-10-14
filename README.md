@@ -1,4 +1,4 @@
-# <img src="github-banner.png">
+# <img src="github-header-image.png">
 
 <center>
 <table>
