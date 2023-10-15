@@ -16,7 +16,7 @@ Welcome to my repo. I'm a seasoned Data Scientist and Machine Learning Engineer 
 ## Projects
 
 ### Machine Learning
-1. [Predicting Modeling Hydropower Consumption using k-Nearest Neighbors Regression](https://github.com/jorgesandoval/hydropower-regression-knn.git)
+1. [Predicting Hydropower Consumption using k-Nearest Neighbors Regression](https://github.com/jorgesandoval/hydropower-regression-knn.git)
 
 ### Technical Articles
 
