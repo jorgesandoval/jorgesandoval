@@ -5,9 +5,9 @@
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgesandoval&hide=html&layout=compact&theme=buefy&count_private=true" /></td>
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=jorgesandoval&theme=buefy&count_private=true"/></td>
-    </tr>   
+    </tr>
 </table>
-</center> 
+</center>
 
 # Hello there! 👋
 
@@ -16,8 +16,23 @@ Welcome to my repo. I'm a seasoned Data Scientist and Machine Learning Engineer 
 ## Projects
 
 ### Machine Learning
-1. [Predicting Hydropower Consumption using k-Nearest Neighbors Regression](https://github.com/jorgesandoval/hydropower-regression-knn.git)
+* Regression Models
+  1. [Predicting Hydropower Consumption using k-Nearest Neighbors Regression](https://github.com/jorgesandoval/hydropower-regression-knn.git)
 
+* Feature Selection and Engineering
+
+  1. [Advanced Feature Engineering for S&P 500 Forecasting Using Permutation Entropy and XGBoost](https://github.com/jorgesandoval/sp500-forecasting-xgboost.git)
+<!--
+* Classification Models
+
+* Clustering
+
+* Recommendation Systems
+
+* Dimensionality Reduction
+
+
+-->
 ### Technical Articles
 
 1.  [Data Modeling Tools: Choosing the Best for Your Needs](https://vertabelo.com/blog/best-data-modeling-tool/)
