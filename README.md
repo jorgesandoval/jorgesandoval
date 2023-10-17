@@ -21,7 +21,7 @@ Welcome to my repo. I'm a seasoned Data Scientist and Machine Learning Engineer 
 
 * Feature Selection and Engineering
 
-  1. [Advanced Feature Engineering for S&P 500 Forecasting Using Permutation Entropy and XGBoost](https://github.com/jorgesandoval/sp500-forecasting-xgboost.git)
+  1. [Advanced Feature Engineering for S&P 500 Forecasting using Permutation Entropy and XGBoost](https://github.com/jorgesandoval/sp500-forecasting-xgboost.git)
 <!--
 * Classification Models
 
