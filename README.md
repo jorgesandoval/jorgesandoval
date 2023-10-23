@@ -34,6 +34,7 @@ Welcome to my repo. I'm a seasoned Data Scientist and Machine Learning Engineer 
 
 ### Deep Learning
 * Classification Models
+
   1. [CNN Autoencoder for Anomaly Detection in ECG Data](https://github.com/jorgesandoval/heartbeat-classification-cnn.git)
 
 ### Technical Articles
