@@ -11,7 +11,10 @@
 
 # Hello there! 👋
 
+![](https://komarev.com/ghpvc/?username=jorgesandoval&color=blue&style=flat)
+
 Welcome to my repo. I'm a seasoned Data Scientist and Machine Learning Engineer with a rich background in database administration and technology consultancy. Passionate about applying my knowledge in real-world scenarios, I've diversified my expertise from being a Relational Database Administrator to delving deep into the realm of Data Science.
+
 
 ## Projects
 
