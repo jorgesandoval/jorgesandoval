@@ -30,9 +30,12 @@ Welcome to my repo. I'm a seasoned Data Scientist and Machine Learning Engineer 
 * Recommendation Systems
 
 * Dimensionality Reduction
-
-
 -->
+
+### Deep Learning
+* Classification Models
+  1. [CNN Autoencoder for Anomaly Detection in ECG Data](https://github.com/jorgesandoval/heartbeat-classification-cnn.git)
+
 ### Technical Articles
 
 1.  [Data Modeling Tools: Choosing the Best for Your Needs](https://vertabelo.com/blog/best-data-modeling-tool/)
