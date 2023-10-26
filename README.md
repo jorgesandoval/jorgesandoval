@@ -19,12 +19,12 @@ Welcome to my repo. I'm a seasoned Data Scientist and Machine Learning Engineer 
 ## Projects
 
 ### Machine Learning
-* Regression Models
+* Regression
   1. [Predicting Hydropower Consumption using k-Nearest Neighbors Regression](https://github.com/jorgesandoval/hydropower-regression-knn.git)
 
-* Feature Selection and Engineering
+* Time-Series Forecasting
 
-  1. [Advanced Feature Engineering for S&P 500 Forecasting using Permutation Entropy and XGBoost](https://github.com/jorgesandoval/sp500-forecasting-xgboost.git)
+  1. [S&P 500 Index Forecasting using XGBoost](https://github.com/jorgesandoval/sp500-forecasting-xgboost.git)
 <!--
 * Classification Models
 
