@@ -19,6 +19,9 @@ Welcome to my repo. I'm a seasoned Data Scientist and Machine Learning Engineer 
 ## Projects
 
 ### Machine Learning
+* Classification
+  1. [Ensemble Machine Learning Models applied IoT Threat Classification](https://github.com/jorgesandoval/iotthreat-classification-ensemble.git)
+
 * Regression
   1. [Predicting Hydropower Consumption using k-Nearest Neighbors Regression](https://github.com/jorgesandoval/hydropower-regression-knn.git)
 
@@ -36,7 +39,7 @@ Welcome to my repo. I'm a seasoned Data Scientist and Machine Learning Engineer 
 -->
 
 ### Deep Learning
-* Classification Models
+* Classification
 
   1. [CNN Autoencoder for Anomaly Detection in ECG Data](https://github.com/jorgesandoval/heartbeat-classification-cnn.git)
 
