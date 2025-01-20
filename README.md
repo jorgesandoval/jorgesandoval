@@ -65,12 +65,13 @@ Welcome to my repo. I'm a seasoned Data Scientist and Machine Learning Engineer 
 
 ## 🎓 Education
 
-<!-- - **Ph.D. in Industrial and Systems Engineering** from *Pontifical Catholic University of Paraná (PUC/PR)*. -->
+- **Ph.D. in Industrial and Systems Engineering** from *Pontifical Catholic University of Paraná (PUC/PR)*.
 - **Master's in Applied Computing (Artificial Intelligence)** from *University of Vale do Itajaí (UNIVALI)*.
 - **B.Sc. in Computer Science** *University of Vale do Itajaí (UNIVALI)*.
 
 ## 💼 Professional Experience
 
+- **Machine Learning Engineer**: Develop and deploy end-to-end machine learning solutions, from data collection and feature engineering to model training and production-level integration.
 - **Data Scientist**: Transitioned to the field of Data Science in 2017, leveraging my expertise from database administration to data-driven decision making.
 - **Relational Database Administrator (2002-2017)**: Managed databases such as Oracle, DB2, SQL Server, PostgreSQL, and MySQL.
 - **Former Deputy Secretary** of Science, Technology, and Innovation in Santa Catarina.
