@@ -62,6 +62,7 @@ Welcome to my repo. I'm a seasoned Data Scientist and Machine Learning Engineer 
 15. [Entity-Relationship Diagram Tools – What They Are and How to Choose the Best One for Your Project](https://vertabelo.com/blog/entity-relationship-diagram-erd/)
 16. [What Is a Schema Diagram? A Guide with 10 Examples](https://vertabelo.com/blog/schema-diagram/)
 17. [Data Model for a Hotel Management System](https://vertabelo.com/blog/data-model-for-hotel-management-system/)
+18. [Year in Review: Our Best Database Design Articles of 2023](https://vertabelo.com/blog/best-database-design-articles-of-2023/)
 
 ## 🎓 Education
 
