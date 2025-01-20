@@ -43,6 +43,12 @@ Welcome to my repo. I'm a seasoned Data Scientist and Machine Learning Engineer 
 
   1. [CNN Autoencoder for Anomaly Detection in ECG Data](https://github.com/jorgesandoval/heartbeat-classification-cnn.git)
 
+### Academic Papers
+
+1. [Ensemble Learning for Nuclear Power Generation Forecasting Based on Deep Neural Networks and Support Vector Regression] (https://www.mdpi.com/2227-7080/12/9/148)
+2. [Automated Machine Learning Approach Applied to Nuclear Energy Generation Short-Term Forecasting] (https://www.researchgate.net/publication/357066902_Automated_Machine_Learning_Approach_Applied_to_Nuclear_Energy_Generation_Short-Term_Forecasting)
+3. [Machine Learning Techniques Applied to Itaipu Streamflow Forecasting] (https://www.researchgate.net/publication/347878147_MACHINE_LEARNING_TECHNIQUES_APPLIED_TO_ITAIPU_STREAMFLOW_FORECASTING)
+   
 ### Technical Articles
 
 1.  [Data Modeling Tools: Choosing the Best for Your Needs](https://vertabelo.com/blog/best-data-modeling-tool/)
