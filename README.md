@@ -42,6 +42,7 @@ Welcome to my repo. I'm a seasoned Data Scientist and Machine Learning Engineer 
 * Classification
 
   1. [CNN Autoencoder for Anomaly Detection in ECG Data](https://github.com/jorgesandoval/heartbeat-classification-cnn.git)
+  2. [Bottle Open/Close Classifier using Pytorch and ResNet](https://github.com/jorgesandoval/api-bottle-open-close-detection)
 
 ### Academic Papers
 
