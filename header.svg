@@ -1,0 +1,64 @@
+<svg viewBox="0 0 900 320" width="900" height="320" xmlns="http://www.w3.org/2000/svg" font-family="'Courier New', Courier, monospace">
+  <defs>
+    <!-- CRT scanlines -->
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="2" fill="#ffffff" opacity="0.025"/>
+    </pattern>
+    <!-- screen glow -->
+    <radialGradient id="glow" cx="50%" cy="40%" r="75%">
+      <stop offset="0%" stop-color="#13203a"/>
+      <stop offset="100%" stop-color="#070a12"/>
+    </radialGradient>
+    <!-- typing clips -->
+    <clipPath id="t1"><rect x="60" y="120" width="0" height="30">
+      <animate attributeName="width" from="0" to="800" begin="0.4s" dur="1.4s" fill="freeze" calcMode="discrete" values="0;80;160;240;320;400;480;560;640;720;800" keyTimes="0;0.1;0.2;0.3;0.4;0.5;0.6;0.7;0.8;0.9;1"/>
+    </rect></clipPath>
+    <clipPath id="t2"><rect x="60" y="155" width="0" height="30">
+      <animate attributeName="width" from="0" to="800" begin="2.0s" dur="1.2s" fill="freeze" calcMode="discrete" values="0;100;200;300;400;500;600;700;800" keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1"/>
+    </rect></clipPath>
+    <clipPath id="t3"><rect x="60" y="190" width="0" height="30">
+      <animate attributeName="width" from="0" to="800" begin="3.4s" dur="1.2s" fill="freeze" calcMode="discrete" values="0;100;200;300;400;500;600;700;800" keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1"/>
+    </rect></clipPath>
+  </defs>
+
+  <!-- cabinet bezel -->
+  <rect x="0" y="0" width="900" height="320" rx="18" fill="#1a1d29"/>
+  <rect x="10" y="10" width="880" height="300" rx="12" fill="url(#glow)" stroke="#2b3350" stroke-width="2"/>
+
+  <!-- title -->
+  <text x="450" y="70" text-anchor="middle" font-size="34" font-weight="bold" fill="#f0b429" letter-spacing="6">JORGE SANDOVAL
+    <animate attributeName="opacity" values="0;1" dur="0.6s" fill="freeze"/>
+  </text>
+  <text x="450" y="96" text-anchor="middle" font-size="14" fill="#8a93b2" letter-spacing="10">★ PLAYER ONE ★
+    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5;1" dur="0.8s" fill="freeze"/>
+  </text>
+
+  <!-- boot log (typed) -->
+  <g clip-path="url(#t1)">
+    <text x="60" y="142" font-size="17" fill="#3ddbd9">&gt; class: AI/ML ENGINEER &#183; level: SENIOR &#183; xp: 10+ years</text>
+  </g>
+  <g clip-path="url(#t2)">
+    <text x="60" y="177" font-size="17" fill="#42be65">&gt; loading LLMs, RAG pipelines, agents, fine-tuning ......... [OK]</text>
+  </g>
+  <g clip-path="url(#t3)">
+    <text x="60" y="212" font-size="17" fill="#42be65">&gt; mounting 20 yrs of database &amp; data engineering lore ...... [OK]</text>
+  </g>
+
+  <!-- status line -->
+  <text x="60" y="252" font-size="17" fill="#ff7eb6" opacity="0">&gt; Ph.D. equipped &#183; M.Sc. in AI equipped &#183; side-quests: trading bots
+    <animate attributeName="opacity" values="0;1" begin="4.8s" dur="0.3s" fill="freeze"/>
+  </text>
+
+  <!-- blinking cursor -->
+  <rect x="60" y="268" width="11" height="20" fill="#3ddbd9" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0;0" begin="5.2s" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- PRESS START -->
+  <text x="760" y="285" text-anchor="middle" font-size="15" font-weight="bold" fill="#f0b429" letter-spacing="4">PRESS START
+    <animate attributeName="opacity" values="1;1;0;0;1" begin="5.2s" dur="1.4s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- scanline overlay -->
+  <rect x="10" y="10" width="880" height="300" rx="12" fill="url(#scan)"/>
+</svg>

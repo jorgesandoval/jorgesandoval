@@ -1,114 +1,111 @@
-# <img src="github-header-image.png">
+<div align="center">
 
-<center>
+<img src="assets/header.svg" alt="Jorge Sandoval — Player One — AI/ML Engineer" width="100%"/>
+
+<br/>
+
+`🕹️ A SENIOR AI/ML ENGINEER HAS ENTERED THE GAME 🕹️`
+
+![Profile views](https://komarev.com/ghpvc/?username=jorgesandoval&color=blueviolet&style=flat-square&label=VISITORS)
+![Focus](https://img.shields.io/badge/CLASS-ML_ENGINEER-f0b429?style=flat-square)
+![Level](https://img.shields.io/badge/PhD-EQUIPPED-3ddbd9?style=flat-square)
+![Status](https://img.shields.io/badge/STATUS-ACCEPTING_QUESTS-42be65?style=flat-square)
+
+</div>
+
+<br/>
+
+```text
+╔══════════════════════════════════════════════════════════════════╗
+║  SELECT YOUR ENGINEER                                            ║
+║                                                                  ║
+║  ▶ JORGE SANDOVAL                                                ║
+║    Spec: LLMOps / RAG / Fine-tuning / Agent Architectures        ║
+║    Passive ability: 15 yrs of DBA lore (Oracle, PostgreSQL...)   ║
+║    Ultimate: ships ML to production, not just to notebooks       ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+## 🎮 Character Attributes
+
+<div align="center">
+<img src="assets/stats.svg" alt="RPG-style skill attributes" width="100%"/>
+</div>
+
+## 🗺️ Quest Log
+
+| Status | Quest | Loot |
+|:------:|-------|------|
+| ✅ | **Main Quest:** Build & deploy end-to-end LLM systems — RAG, fine-tuning (QLoRA/DPO/GRPO), multi-agent orchestration | Production XP |
+| ✅ | **Dungeon cleared:** Implemented LLM post-training (CPT → SFT → DPO → GRPO) from scratch in pure PyTorch | Deep understanding +100 |
+| ✅ | **Boss defeated:** 15 years as Relational DBA (Oracle, DB2, SQL Server, PostgreSQL, MySQL) | WIS +20 |
+| ✅ | **Side quest:** Published research on ensemble learning & energy forecasting | 📜 Scrolls of Science |
+| ✅ | **Guild leadership:** Former Deputy Secretary of Science, Technology & Innovation (Santa Catarina, Brazil) | CHA +15 |
+| 🔄 | **Daily quest:** Building MCP servers, agentic tooling & voice-driven dev workflows | In progress... |
+
+## ⚔️ Inventory
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=micropython&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-DC291E?style=for-the-badge&logo=oracle&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
+
+</div>
+
+## 🏆 Achievements Unlocked
+
+```text
+ 🏅 PhD COMPLETIONIST ......... Ph.D. in Industrial & Systems Engineering
+ 🏅 ARCANE SCHOLAR ............ M.Sc. in Applied Computing (AI)
+ 🏅 FULL STACK OF DATA ........ DBA → Data Scientist → ML Engineer evolution line
+ 🏅 PUBLISHED AUTHOR .......... Peer-reviewed papers on ML & forecasting
+ 🏅 KNOWLEDGE SHARER .......... University professor & 18+ technical articles
+ 🏅 PUBLIC SERVANT ............ Government tech leadership
+```
+
+## 🐍 The Snake Devours My Contributions
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jorgesandoval/jorgesandoval/output/snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/jorgesandoval/jorgesandoval/output/snake.svg" alt="Snake game eating my GitHub contributions"/>
+</picture>
+</div>
+
+## 📊 High Scores
+
+<div align="center">
 <table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgesandoval&hide=html&layout=compact&theme=buefy&count_private=true" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=jorgesandoval&theme=buefy&count_private=true"/></td>
-    </tr>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=jorgesandoval&theme=tokyonight&count_private=true&show_icons=true&hide_border=true" width="460"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgesandoval&hide=html&layout=compact&theme=tokyonight&count_private=true&hide_border=true" width="380"/></td>
+  </tr>
 </table>
-</center>
+</div>
 
-# Hello there! 👋
+## 🪙 Insert Coin to Connect
 
-![](https://komarev.com/ghpvc/?username=jorgesandoval&color=blue&style=flat)
+<div align="center">
 
-Welcome to my repo. I'm a seasoned Data Scientist and Machine Learning Engineer with a rich background in database administration and technology consultancy. Passionate about applying my knowledge in real-world scenarios, I've diversified my expertise from being a Relational Database Administrator to delving deep into the realm of Data Science.
+```text
+        ┌─────────────────────────────────────┐
+        │   CONTINUE?   10 ... 9 ... 8 ...    │
+        └─────────────────────────────────────┘
+```
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-PRESS_🅐-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-g-sandoval/)
+[![GitHub](https://img.shields.io/badge/Follow-PRESS_🅑-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jorgesandoval)
 
-## Projects
+*Always up for co-op mode: new ideas, projects, or the latest in AI engineering.*
 
-### Machine Learning
-* Classification
-  1. [Ensemble Machine Learning Models applied IoT Threat Classification](https://github.com/jorgesandoval/iotthreat-classification-ensemble.git)
+`GAME SAVED. THANKS FOR PLAYING. ⭐`
 
-* Regression
-  1. [Predicting Hydropower Consumption using k-Nearest Neighbors Regression](https://github.com/jorgesandoval/hydropower-regression-knn.git)
-
-* Time-Series Forecasting
-
-  1. [S&P 500 Index Forecasting using XGBoost](https://github.com/jorgesandoval/sp500-forecasting-xgboost.git)
-<!--
-* Classification Models
-
-* Clustering
-
-* Recommendation Systems
-
-* Dimensionality Reduction
--->
-
-### Deep Learning
-* Classification
-
-  1. [CNN Autoencoder for Anomaly Detection in ECG Data](https://github.com/jorgesandoval/heartbeat-classification-cnn.git)
-  2. [Bottle Open/Close Classifier using Pytorch and ResNet](https://github.com/jorgesandoval/api-bottle-open-close-detection)
-
-### Academic Papers
-
-1. [Ensemble Learning for Nuclear Power Generation Forecasting Based on Deep Neural Networks and Support Vector Regression](https://www.mdpi.com/2227-7080/12/9/148)
-2. [Automated Machine Learning Approach Applied to Nuclear Energy Generation Short-Term Forecasting](https://www.researchgate.net/publication/357066902_Automated_Machine_Learning_Approach_Applied_to_Nuclear_Energy_Generation_Short-Term_Forecasting)
-3. [Machine Learning Techniques Applied to Itaipu Streamflow Forecasting](https://www.researchgate.net/publication/347878147_MACHINE_LEARNING_TECHNIQUES_APPLIED_TO_ITAIPU_STREAMFLOW_FORECASTING)
-   
-### Technical Articles
-
-1.  [Data Modeling Tools: Choosing the Best for Your Needs](https://vertabelo.com/blog/best-data-modeling-tool/)
-2.  [Top 15 Database Modeling Tips for 2021](https://vertabelo.com/blog/database-modeling-tips/)
-3.  [The Best ER Diagram Tools in 2021](https://vertabelo.com/blog/best-er-diagram-tools-2021/)
-4.  [What is Data Warehouse?](https://vertabelo.com/blog/what-is-data-warehouse/)
-5.  [What's the Best ER Diagram Tool for Windows?](https://vertabelo.com/blog/best-er-diagram-tool-for-windows/)
-6.  [How to Automatically Generate Primary Key Values Using Vertabelo’s Auto-Generation Features](https://vertabelo.com/blog/auto-generate-primary-key-values/)
-7.  [Using Text Notes in Data Modeling](https://vertabelo.com/blog/text-notes-in-vertabelo/)
-8.  [What Is the Best Design for an Address Database Model?](https://vertabelo.com/blog/address-in-database-model/)
-9.  [The Ten Best Database Diagram Tools for SQL Server](https://vertabelo.com/blog/database-diagram-tool-for-sql-server/)
-10. [A Complete Guide to Database Diagram Symbols](https://vertabelo.com/blog/database-diagram-symbols-guide/)
-11. [What Is a DDL Script? How Do You Use It?](https://vertabelo.com/blog/what-is-ddl-script/)
-12. [The Best Database Software for Mac](https://vertabelo.com/blog/database-software-for-mac/)
-13. [Top 10 Database Design Tools for Mac](https://vertabelo.com/blog/database-design-tools-for-mac/)
-14. [Understanding Entity-Relationship Diagrams (ERDs) and Their Applications in Database Design](https://vertabelo.com/blog/what-does-erd-stand-for/)
-15. [Entity-Relationship Diagram Tools – What They Are and How to Choose the Best One for Your Project](https://vertabelo.com/blog/entity-relationship-diagram-erd/)
-16. [What Is a Schema Diagram? A Guide with 10 Examples](https://vertabelo.com/blog/schema-diagram/)
-17. [Data Model for a Hotel Management System](https://vertabelo.com/blog/data-model-for-hotel-management-system/)
-18. [Year in Review: Our Best Database Design Articles of 2023](https://vertabelo.com/blog/best-database-design-articles-of-2023/)
-
-## 🎓 Education
-
-- **Ph.D. in Industrial and Systems Engineering** from *Pontifical Catholic University of Paraná (PUC/PR)*.
-- **Master's in Applied Computing (Artificial Intelligence)** from *University of Vale do Itajaí (UNIVALI)*.
-- **B.Sc. in Computer Science** *University of Vale do Itajaí (UNIVALI)*.
-
-## 💼 Professional Experience
-
-- **Machine Learning Engineer**: Develop and deploy end-to-end machine learning solutions, from data collection and feature engineering to model training and production-level integration.
-- **Data Scientist**: Transitioned to the field of Data Science in 2017, leveraging my expertise from database administration to data-driven decision making.
-- **Relational Database Administrator (2002-2017)**: Managed databases such as Oracle, DB2, SQL Server, PostgreSQL, and MySQL.
-- **Former Deputy Secretary** of Science, Technology, and Innovation in Santa Catarina.
-- **University Professor**: Imparted knowledge and mentored the next generation.
-- **Technology Consultant**: Offered strategic tech consultations for the Government of Santa Catarina.
-- **Researcher**: Explored and studied cutting-edge technologies to drive innovation.
-
-## 🌟 Core Competencies
-
-- **Communication & Teamwork**: Effectively conveyed complex information and collaborated with cross-functional teams.
-- **Leadership**: Spearheaded multiple projects, guiding teams to success.
-- **Problem-Solving & Critical Thinking**: Approached challenges with a logical and result-oriented mindset.
-- **Time Management & Emotional Intelligence**: Efficiently managed tasks, while maintaining interpersonal relationships and understanding team dynamics.
-
-
-## 💻 Technologies:
-
-![Python](https://img.shields.io/badge/python-%23FFD43B?&style=for-the-badge&logo=python&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-%23DC291E?style=for-the-badge&logo=oracle&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300718B?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-
-## 🌐 Let's Connect!
-
-Feel free to reach out if you'd like to collaborate or just have a chat. Always excited to discuss new ideas, projects, or even the latest tech trends.
-
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/jorge-g-sandoval/)](https://www.linkedin.com/in/jorge-g-sandoval/)
+</div>
